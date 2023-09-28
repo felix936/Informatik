@@ -1,7 +1,20 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color: teal;
 }
 canvas {
   display: block;
+}
+
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: violet;
+  font-size: 10rem;
+}
+
+p {
+  padding: 1rem;
+  font-size: 5rem;
+  z-index: 10;
 }
